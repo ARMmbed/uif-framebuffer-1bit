@@ -11,8 +11,7 @@
   "homepage": "https://github.com/ARMmbed/uif-framebuffer-1bit",
   "license": "Apache-2.0",
   "dependencies": {
-    "uif-tools-1bit": "^1.0.0",
     "uif-framebuffer": "*",
-    "uiframework": "*"
+    "uif-tools-1bit": "*"
   }
 }
