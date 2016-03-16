@@ -1,6 +1,6 @@
 {
   "name": "uif-framebuffer-1bit",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "UIFramework frame buffer with 1-bit color depth.",
   "keywords": [],
   "author": "Marcus Chang <marcus.chang@arm.com>",
